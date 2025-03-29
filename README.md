@@ -1,4 +1,5 @@
 DigitRecognizer 🎯
+
 This repository contains everything needed to train a neural network for handwritten digit recognition, make predictions, and provide a desktop app to test the model with input images.
 
 📁 Repository Structure:
